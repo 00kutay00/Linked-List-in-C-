@@ -18,9 +18,9 @@
   2. Stack and Queue Implementations
     - Singly Linked List for Stack, Doubly Linked List for Queue.
   3. Graph and Tree Data Structures
-     - Adjacency lists in graphs, child node linking in trees.
+    - Adjacency lists in graphs, child node linking in trees.
   4. File Systems and Databases
-     - Managing disk blocks in a linked manner.
+    - Managing disk blocks in a linked manner.
   5. Browser History and Undo/Redo Operations
     - Tracking sequential actions.
   6. Polynomial and Large Number Arithmetic
