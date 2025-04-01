@@ -14,16 +14,16 @@
 
 ## Where Are Linked Lists Used?
   1. Dynamic Memory Management
-    - Used when programs require flexible memory allocation.
+     - Used when programs require flexible memory allocation.
   2. Stack and Queue Implementations
-    - Singly Linked List for Stack, Doubly Linked List for Queue.
+     - Singly Linked List for Stack, Doubly Linked List for Queue.
   3. Graph and Tree Data Structures
-    - Adjacency lists in graphs, child node linking in trees.
+     - Adjacency lists in graphs, child node linking in trees.
   4. File Systems and Databases
-    - Managing disk blocks in a linked manner.
+     - Managing disk blocks in a linked manner.
   5. Browser History and Undo/Redo Operations
-    - Tracking sequential actions.
+      - Tracking sequential actions.
   6. Polynomial and Large Number Arithmetic
-    - Flexible storage of digits or terms.
+      - Flexible storage of digits or terms.
   7. Operating Systems (Process Scheduling, Memory Management)
-    - Managing running processes with linked lists.
+      - Managing running processes with linked lists.
